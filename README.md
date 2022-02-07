@@ -15,10 +15,10 @@
 ### Github Stats:
 
 <a href="https://github.com/GalichAnton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ares909&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalichAnton&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/GalichAnton">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ares909&show_icons=true&theme=light&line_height=27" alt="Anton's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GalichAnton&show_icons=true&theme=light&line_height=27" alt="Anton's github stats"/>
 </a>
 
 ### Contacts:
