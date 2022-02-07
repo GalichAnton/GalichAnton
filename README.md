@@ -1,7 +1,5 @@
 ### Hi, I'm Anton Galich - Frontend developer
 
--  Frontend developer 
-
 
 ### Languages and Tools:
 
