@@ -19,6 +19,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GalichAnton&show_icons=true&theme=light&line_height=27" alt="Anton's github stats"/>
 </a>
 
+###Leetcode stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 ### Contacts:
 * [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Anton_Galich)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antongalich)
