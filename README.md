@@ -19,7 +19,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GalichAnton&show_icons=true&theme=light&line_height=27" alt="Anton's github stats"/>
 </a>
 
-###Leetcode stats
+### Leetcode stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
