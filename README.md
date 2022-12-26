@@ -21,7 +21,7 @@
 
 ### Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/GalichAnton)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=GalichAnton)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Contacts:
 * [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Anton_Galich)
